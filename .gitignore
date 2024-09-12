@@ -1,0 +1,23 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+media/
+
+# Environments
+.env
+venv/
+ENV/
+env.bak/
+env/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
